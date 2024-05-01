@@ -1,0 +1,111 @@
+{
+  "id": "more-options",
+  "title": "More Options",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11",
+    "scripts": [
+      "init.js"
+    ]
+  },
+  "authors": [
+    {
+      "name": "transit-delay"
+    }
+  ],
+  "packs": [
+    {
+      "name": "more-classes",
+      "label": "More Classes",
+      "path": "packs/more-classes",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "more-subclasses",
+      "label": "More Subclasses",
+      "path": "packs/more-subclasses",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "more-races",
+      "label": "More Races",
+      "path": "packs/more-races",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "more-features",
+      "label": "More Features",
+      "path": "packs/more-features",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "more-spells",
+      "label": "More Spells",
+      "path": "packs/more-spells",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "more-items",
+      "label": "More Items",
+      "path": "packs/more-items",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "more-backgrounds",
+      "label": "More Backgrounds",
+      "path": "packs/more-backgrounds",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    },
+    {
+      "name": "more-rolltables",
+      "label": "More Rolltables",
+      "path": "packs/more-rolltables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    }
+  ],
+  "description": "Manually created races, classes, subclasses, features, backgrounds, spells, items, etc.",
+  "url": "https://github.com/transit-delay/more-options",
+  "manifest": "",
+  "download": ""
+}
